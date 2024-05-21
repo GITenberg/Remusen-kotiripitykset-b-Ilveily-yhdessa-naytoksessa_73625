@@ -1,0 +1,33 @@
+_repo: Remusen-kotiripitykset-b-Ilveily-yhdessa-naytoksessa_73625
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Moser, Gustav von
+    aliases:
+    - Von Moser, Gustav
+    - Moser, G. von (Gustav)
+    birthdate: 1825
+    deathdate: 1903
+    gutenberg_agent_id: '55486'
+    url: http://www.gutenberg.org/2009/agents/55486
+    wikipedia:
+    - https://de.wikipedia.org/wiki/Gustav_von_Moser
+    - https://sv.wikipedia.org/wiki/Gustav_von_Moser
+description: ''
+gutenberg_issued: '2024-05-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73625'
+language: fi
+pgterms:marc905: 20160504090409moser
+pgterms:marc906: '1909'
+pgterms:marc907: FI
+production_note: Tapio Riikonen
+publication_note: '  $aKuopio :$bU. W. Telén & Co., $c1909.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Remusen kotiripitykset : $b Ilveily yhdessä näytöksessä'
+url: http://www.gutenberg.org/ebooks/73625
