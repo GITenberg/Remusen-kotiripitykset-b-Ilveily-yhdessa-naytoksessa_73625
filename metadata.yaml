@@ -1,5 +1,8 @@
 _repo: Remusen-kotiripitykset-b-Ilveily-yhdessa-naytoksessa_73625
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Moser, Gustav von
@@ -14,6 +17,8 @@ creator:
     - https://de.wikipedia.org/wiki/Gustav_von_Moser
     - https://sv.wikipedia.org/wiki/Gustav_von_Moser
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73625#Remusen-kotiripitykset-b-Ilveily-yhdessa-naytoksessa
 gutenberg_issued: '2024-05-14'
 gutenberg_type: Text
 identifiers:
